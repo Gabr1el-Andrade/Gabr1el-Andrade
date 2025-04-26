@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Gabriel Andrade</h1>
 <p align="center">
   <b>Desenvolvedor Back-end • Apaixonado por tecnologia e boas práticas de código</b><br/>
-  <a href="https://www.linkedin.com/in/fgabr1el/">🔗 LinkedIn</a> • 
+  <a href= [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fgabr1el/)  "https://www.linkedin.com/in/fgabr1el/">🔗 LinkedIn</a> • 
   <a href="https://github.com/Gabr1el-Andrade">🐱 GitHub</a><br/>
   📍 Manaus – AM &nbsp;&nbsp;|&nbsp;&nbsp; 📞 (97) 99174-8631 &nbsp;&nbsp;|&nbsp;&nbsp; ✉️ 0gabriel.andrade0@gmail.com
 </p>
