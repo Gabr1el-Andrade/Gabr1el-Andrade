@@ -1,103 +1,114 @@
-# 👨‍💻 Gabriel Andrade – Desenvolvedor Back-end
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fgabr1el/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/Gabr1el-Andrade)
-
-📍 Manaus – Amazonas  
-📞 (97) 99174-8631  
-✉️ 0gabriel.andrade0@gmail.com  
-
----
-
-## 🧠 Sobre mim
-
-Sou um desenvolvedor com foco em **back-end**, mas com experiência crescente em **tecnologias full stack**, como **React**, **Next.js** e **MongoDB**. Tenho paixão por criar soluções escaláveis, seguras e bem estruturadas, com base em princípios sólidos de arquitetura e boas práticas de desenvolvimento.
-
-Atualmente, atuo na **Secretaria Estadual de Saúde (SES-AM)** como estagiário em desenvolvimento de software, trabalhando tanto no back-end quanto no front-end da aplicação interna da instituição. Minha atuação envolve **resolução de bugs, manutenção e novas funcionalidades**.
+<h1 align="center">👨‍💻 Gabriel Andrade</h1>
+<p align="center">
+  <b>Desenvolvedor Back-end • Apaixonado por tecnologia e boas práticas de código</b><br/>
+  <a href="https://www.linkedin.com/in/fgabr1el/">🔗 LinkedIn</a> • 
+  <a href="https://github.com/Gabr1el-Andrade">🐱 GitHub</a><br/>
+  📍 Manaus – AM &nbsp;&nbsp;|&nbsp;&nbsp; 📞 (97) 99174-8631 &nbsp;&nbsp;|&nbsp;&nbsp; ✉️ 0gabriel.andrade0@gmail.com
+</p>
 
 ---
 
-## 🚀 Tecnologias e Habilidades
+## 🧠 Sobre Mim
 
-### Linguagens & Frameworks
-- **Java**, **Spring Boot**, **Hibernate**
-- **JavaScript**, **TypeScript**, **Node.js**
-- **React**, **Next.js (v14)**
-- **MongoDB**, **PostgreSQL**, **MySQL**
-- **RESTful APIs**, **Microservices**
+Sou um desenvolvedor **Back-end** com sólida base em **Java**, **Spring Boot** e **bancos de dados relacionais e NoSQL**. Tenho expandido minhas habilidades para o **desenvolvimento full stack**, utilizando **React**, **Next.js** e **MongoDB**. Gosto de resolver problemas com código limpo, escalável e bem estruturado, focando sempre em boas práticas e padrões.
 
-### Outras Competências
-- Git, GitHub, GitLab
-- SOLID, Clean Code, TDD
-- Docker, Maven
-- Noções em Python, C#, Django e Ruby on Rails
-- AWS, Google Cloud, Azure
-- Redis, Oracle
+🎯 Atualmente estagiando na **Secretaria Estadual de Saúde (SES-AM)** com atuação em manutenção de sistemas, desenvolvimento de novas funcionalidades e resolução de bugs.
 
 ---
 
-## 📁 Projetos Principais
+## 🚀 Tecnologias e Ferramentas
 
-### 🔧 CRUD App (Mai/2024)
-Desenvolvido com foco em consolidação dos conhecimentos em JS moderno.
-- Tecnologias: **Next.js 14**, **React**, **TypeScript**, **Node.js**
-- Funcionalidade: Operações completas de Create, Read, Update, Delete
-- Banco de dados: **MongoDB**
+| 🛠 Linguagens/Frameworks | ☁️ DevOps/Cloud | 🧩 Arquitetura e Práticas |
+|--------------------------|-----------------|----------------------------|
+| Java, JavaScript, TypeScript | Docker, Git, GitHub, GitLab | SOLID, TDD, Clean Code |
+| Spring Boot, Hibernate, Node.js | AWS, Google Cloud, Azure | REST APIs, Microservices |
+| React, Next.js 14 | MongoDB, PostgreSQL, MySQL | Maven, Serializable, Lombok |
+
+---
+
+## 📁 Projetos Relevantes
+
+### 🔧 CRUD App – *Projeto Autoral* (Mai/2024)
+> Sistema CRUD com foco em JS moderno e boas práticas.
+
+- 🧪 **Stack:** Next.js 14, React, TypeScript, Node.js, MongoDB
+- 🔄 Operações: Create, Read, Update, Delete
+- 💡 Finalidade: Consolidar práticas de full stack moderno
+
+---
 
 ### 🛠 Projeto Final – EBAC (Mai/2024)
-Desafio proposto pelo curso da EBAC com foco em microserviços.
-- Arquitetura: **Spring Boot**, **Maven**, padrão **Serializable**
-- Técnicas: **PostConstruct**, boas práticas de persistência e validação
+> Desafio proposto pelo curso com arquitetura de microserviços.
 
-### 🍽 API de Cardápio (Abr/2024)
-Projeto autoral voltado à criação de uma API REST para gerenciamento de cardápios.
-- Tecnologias: **Spring Boot**, **Lombok**, **Spring Web**
-- Foco: Criação de controllers e organização de camadas
-
-### 🗃 Projeto PostgreSQL (Dez/2023)
-Projeto de integração entre **banco de dados** e aplicação.
-- Uso de `persistence.xml` para configuração e manutenção da conexão
-- Operações avançadas com **PostgreSQL**
+- ⚙️ Spring Boot com padrão Maven
+- 🧱 Uso de Serializable e PostConstruct
+- 📈 Foco em performance e persistência
 
 ---
 
-## 🎓 Formação
+### 🍽 API de Cardápio – *Projeto Autoral* (Abr/2024)
+> API REST para gestão de cardápios com arquitetura MVC.
 
-- 📘 **Tecnólogo** – Análise e Desenvolvimento de Sistemas – *Uninorte* (Fev/2024 – Dez/2025)
-- 💻 **Curso Livre** – Especialista Back-End Java – *EBAC* (Fev/2023 – Mai/2024)
-- 🤝 **Curso Livre** – Relações Interpessoais – *CETAM* (2018)
+- 🧩 Spring Web, Lombok, Controller
+- 🔁 Comunicação estruturada entre camadas
+- 🎯 Aprimoramento de controle e exibição de dados
+
+---
+
+### 🗃 Projeto PostgreSQL – EBAC (Dez/2023)
+> Integração entre aplicação e banco relacional.
+
+- 🧪 Criação de tabelas com PostgreSQL
+- ⚙️ Configuração via `persistence.xml`
+
+---
+
+## 🎓 Formação Acadêmica
+
+🎓 **Tecnólogo** – Análise e Desenvolvimento de Sistemas  
+📍 *Uninorte* (2024 – 2025)
+
+🎓 **Curso Livre** – Especialista Back-End Java  
+📍 *EBAC* (2023 – 2024)
+
+🎓 **Curso Livre** – Relações Interpessoais  
+📍 *CETAM* (2018)
 
 ---
 
 ## 💼 Experiência Profissional
 
-### Secretaria Estadual de Saúde – SES/AM  
+### 🏥 Secretaria Estadual de Saúde – SES/AM  
 **Estagiário em Desenvolvimento de Software**  
-🗓 Dez/2024 – Atual  
-- Manutenção e implementação de funcionalidades em sistema interno
-- Desenvolvimento com **Next.js**, **React**, **JavaScript**, **Node.js**, **PostegresSQL**
+📅 Dez/2024 – Atualmente  
+- 🔧 Manutenção e implementação de funcionalidades
+- 💻 Tecnologias: Next.js, React, JavaScript, Node.js
 
-### Comércio Andrade – Codajás/AM  
+---
+
+### 🏪 Comércio Andrade – Codajás/AM  
 **Atendente de Caixa**  
-🗓 Mai/2018 – Dez/2018  
-- Organização de estoque, atendimento ao cliente e controle de caixa
+📅 Mai/2018 – Dez/2018  
+- Organização, atendimento e controle de caixa
 
 ---
 
-## 🗣 Idiomas
+## 🌐 Idiomas
 
-- Inglês – Básico
-
----
-
-## 💡 Atividades Complementares
-
-- **Workshop Café com Código – Uninorte (2024)**
-- **Vice-líder de turma – Uninorte (2024)**
-- **Liderança de grupo de jovens – Paróquia Nossa Senhora das Graças (2021)**
+- 🇺🇸 Inglês – Básico
 
 ---
 
-## 📈 Objetivos
+## 📚 Atividades Complementares
 
-Busco continuamente aprimorar minhas habilidades técnicas e contribuir com projetos desafiadores, que envolvam **arquitetura de software**, **desenvolvimento backend robusto** e **integração com tecnologias modernas no front-end**. Estou aberto a **novas oportunidades** e colaborações!
+- ☕ Workshop Café com Código – Uninorte (2024)
+- 🤝 Vice-líder de turma – Uninorte (2024)
+- 🙌 Liderança de grupo de jovens – Paróquia Nossa Senhora das Graças (2021)
+
+---
+
+## 🚀 Objetivos
+
+Aprimorar constantemente minhas habilidades em **desenvolvimento de sistemas modernos**, com foco em **soluções robustas e escaláveis**, aplicando padrões de arquitetura e evoluindo como **desenvolvedor full stack**.
+
+---
